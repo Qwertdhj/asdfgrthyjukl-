@@ -1,0 +1,1265 @@
+@media only screen and (min-width: 1367px) 
+{
+    .img-present
+    {
+        left: 58%;
+    }
+    .text-present
+    {
+        left: 366px;
+    }
+    nav li
+    {
+        width: 100%;
+    }
+    nav li ul h4
+    {
+        left: 70%;
+    }
+    .text-ab-us p
+    {
+        width: 700px;
+    }
+    .text-ab-us
+    {
+        left: 872px;
+    }
+    .img-ab-us
+    {
+        left: 336px;
+    }
+    .img-border-ab-us
+    {
+        left: 311px;
+    }
+    .services
+    {
+        position: relative;
+        right: -12%;
+    }
+    .projects-img
+    {
+        right: -12%;
+    }
+    .st-bk
+    {
+        position: relative;
+        right: -12%;
+    }
+    .swiper-selection
+    {
+        left: 12%;
+    }
+    .swiper-name
+    {
+        left: 8%;
+    }
+    .services-build
+    {
+        right: -13%;
+    }
+    .box-info-contact
+    {
+        left: 16%;
+    }
+    .button-question
+    {
+        left: 52%;
+    }
+    .question
+    {
+        left: 19%;
+    }
+    .logo .vk
+    {
+        margin-left: 555%;
+    }
+    .swiper-selection .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+        top: 519px;
+        left: 0;
+        width: 80%;
+    }
+    .show-modal
+    {
+        z-index: 99;
+    }
+}
+@media only screen and (max-width: 1200px) 
+{
+    nav .logo
+    {
+        margin-left: 4%;
+    }
+    nav li
+    {
+        left: 20%;
+    }
+    .img-present
+    {
+        left: 595px;
+    }
+    .text-present
+    {
+        left: 6%;
+    }
+    .img-ab-us
+    {
+        left: 5%;
+    }
+    .img-border-ab-us
+    {
+        left: 3%;
+    }
+    .text-ab-us
+    {
+        left: 40%;
+    }
+    .services
+    {
+        right: 8%;
+    }
+    .projects-img
+    {
+        right: 7.5%;
+    }
+    .desktop-1200
+    {
+        display: bl ock;
+    }
+    .desktop
+    {
+        display: none;
+    }
+    .st-text .text-1
+    {
+        margin-left: 120px;
+    }
+    .st-text .text-2
+    {
+        margin-left: 100px;
+    }
+    .st-text .text-3
+    {
+        margin-left: 100px;
+    }
+    .swiper-selection
+    {
+        left: -2%;
+    }
+    .img-swiper
+    {
+        top: 80px;
+    }
+    .services-build
+    {
+        right: 5%;
+    }
+    .two,
+    .three
+    {
+        left: 370px;
+    }
+    .logo
+    {
+        width: 100%;
+    }
+    .logo .vk
+    {
+        margin-left: 43.4%;
+    }
+    .button-question
+    {
+        left: 57%;
+    }
+    .show-modal
+    {
+        z-index: 99;
+    }
+    .desktop-1000
+    {
+        display: none;
+    }
+}
+@media only screen and (max-width: 1170px) 
+{
+    .desktop-1000
+    {
+        display: block;
+    }
+    .text-ab-us p
+    {
+        font-size: 17px;
+        width: 640px;    
+    }
+    .text-ab-us
+    {
+        left: 42%;
+    }
+    .Construction-services
+    {
+        left: 390px;
+    }
+    .Finishing-services
+    {
+        left: 779px;
+    }
+    .services
+    {
+        right: 8.7%;
+    }
+    .project-2, .project-3
+    {
+        margin-left: 23px;
+    }
+    .st-bk
+    {
+        right: 4%;
+    }
+    .text-swiper h4
+    {
+        font-size: 18px;
+    }
+    .services-build
+    {
+        right: 6.2%;
+    }
+    .box-info-contact
+    {
+        margin-left: 35px;
+        left: 6.45%;
+    }
+    .logo .vk
+    {
+        margin-left: 46%;
+    }
+    .show-modal
+    {
+        z-index: 99;
+    }
+}
+@media only screen and (max-width: 1000px) 
+{
+    nav li
+    {
+        left: 23%;
+    }
+    nav li ul h4
+    {
+        left: 555px;
+    }
+    .text-present
+    {
+        width: 520px;
+    }
+    .text-present h3
+    {
+        font-size: 23px;
+    }
+    .img-present img
+    {
+        width: 350px;
+    }
+    .text-present h1
+    {
+        width: 196px;
+        font-size: 22px;
+        top: 251px;
+    }
+    .text-present p
+    {
+        width: 377px;
+        font-size: 16px;
+        top: 322px;
+    }
+    .img-border-ab-us
+    {
+        top: 165px;
+    }
+    .img-border-ab-us img
+    {
+        width: 300px;
+    }
+    .img-ab-us
+    {
+        top: 580px;
+    }
+    .img-ab-us img
+    {
+        width: 300px;
+    }
+    .text-ab-us h2
+    {
+        font-size: 31px;
+    }
+    .text-ab-us h1
+    {
+        font-size: 51px;
+        bottom: 35px;
+    }
+    .text-ab-us
+    {
+        left: 38%;
+        top: 605px;
+    }
+    .text-ab-us p 
+    {
+        font-size: 16px;
+        width: 600px;
+        top: 50px;
+        line-height: 20px;
+    }
+    .Construction-services {
+        left: 320px;
+    }
+    .Finishing-services {
+        left: 629px;
+    }
+    .Construction-services,
+    .Finishing-services,
+    .dismantling-text
+    {
+        font-size: 14px;
+    }
+    .services
+    {
+        right: 11.4%;
+    }
+    .our-projects-name h1
+    {
+         font-size: 51px;
+    }
+    .our-projects-name h2
+    {
+        font-size: 31px;
+    }
+    .our-projects-name 
+    {
+        left: 6%;
+    }
+    .projects-img
+    {
+        right: 9.25%;
+    }
+    .project-1 img,
+    .project-2 img,
+    .project-3 img
+    {
+        width: 300px;
+    }
+    .project-1:hover::before, .project-2:hover::before, .project-3:hover::before
+    {
+        width: 300px;
+        height: 300px;
+    }
+    .desktop-services,
+    .desktop-horizontal-1-1,
+    .desktop-1200
+    {
+        display: none;
+    }
+    .desktop-horizontal-1,
+    .desktop-horizontal-2,
+    .desktop-horizontal-3
+    {
+        display: none;
+    }
+    .st-text
+    {
+        left: 8.2;
+        font-size: 22px;
+    }
+    .st-text .text-2,
+    .st-text .text-3
+    {
+        margin-left: 20px;
+    }
+    .text-swiper h4 
+    {
+        width: 530px;
+        font-size: 16px;
+    }
+    .img-swiper
+    {
+        top: 90px;
+        left: 575px;
+    }    
+    .swiper-selection .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction
+    {
+        left: 0;
+        width: 100%;
+    }
+    .two
+    {
+        top: 253px;
+        left: 0;
+    }
+    .three
+    {
+        top: 259px;
+        left: 0;
+    }
+    .serv-name h2
+    {
+        right:  43px;
+    }
+    .serv-text
+    {
+        left: 36px;
+        width: 840px;
+        text-align: left;
+        top: 30px;
+    }
+    .button 
+    {
+        left: 30px;
+        top: 44px;
+        padding: 11px 351px 9px 351px;
+    }
+    .contact-info
+    {
+        margin-top: 625px;
+    }
+    .contact-name h1
+    {
+        font-size: 51px;
+    }
+    .contact-name h2
+    {
+        font-size: 31px;
+        width: 100%;
+    }
+    .contact-name
+    {
+        left: 95px;
+    }
+    .box-info-contact h3
+    {
+        font-size: 22px;
+    }
+    .box-info-contact h4
+    {
+        font-size: 18px;
+    }
+    .box-inf-number
+    {
+        left: 0;
+    }
+    .box-inf-number h4
+    {
+        width: 236px;
+        text-align: center;
+    }
+    .box-inf-address
+    {
+        text-align: center;
+        left: 0;
+    }
+    .box-inf-address h4
+    {
+        width: 309px;
+    }
+    .box-inf-mail
+    {
+        text-align: center;
+        left: 0;
+    }
+    .box-inf-mail h4
+    {
+        width: 237px;
+    }
+    .box-info-contact 
+    {
+        margin-left: 35px;
+        left: 4.9%;
+    }
+    .question
+    {
+        top: 165px;
+        left: 24%;
+    }
+    .question h1
+    {
+        text-align: center;
+        width: 480px;
+    }
+    .question h4
+    {
+    font-size: 20px;
+    text-align: center;
+    }
+    .button-question
+    {
+        left: 26.2%;
+        top: 405px;
+    }
+    .logo-social-network
+    {
+        top:380px;
+    }
+    .logo .vk 
+    {
+        margin-left: 42%;   
+    }    
+    .desktop-horizontal-1-1
+    {
+        display: block;
+    }
+    .show-modal
+    {
+        z-index: 99;
+    }
+}
+@media only screen and (max-width: 800px) 
+{
+    nav li
+    {
+        left: 27%;
+    }
+    nav li ul h4
+    {
+    left: 415px;
+    }
+    .text-present
+    {
+        width: 700px;
+        top: 135px;
+    }
+    .text-present h3
+    {
+        font-size: 31px;
+        text-align: center;
+        line-height: 36px;
+    }
+    .text-present h1
+    {
+        left: 30%;
+    }
+    .text-present p
+    {
+        left: 30%;
+        text-align: center;
+    }
+    .desktop-horizontal-1-1,
+    .img-present
+    {
+        display: none;
+    }
+    .desktop-horizontal-3,
+    .desktop-horizontal-2,
+    .desktop-horizontal-1
+    {
+        display: block;
+    }
+    .img-border-ab-us
+    {
+        top: 555px;
+    }
+    .text-ab-us 
+    {
+    left: 44%;
+    }
+    .text-ab-us h2
+    {
+        font-size: 27px;
+    }
+    .text-ab-us h1
+    {
+        font-size: 47px;
+    }
+    .text-ab-us p
+    {
+        font-size: 15px;
+        line-height: 17px;
+        top: 45px;
+        width: 430px;
+    }
+    .img-border-ab-us 
+    {
+    left: 2%;
+    }
+    .img-ab-us 
+    {
+    left: 4%;
+    }
+    .services
+    {
+        margin-top: 440px;
+        position: relative;
+    }
+    .dismantling-services
+    {
+        left: 29%;
+    }
+    .button::before
+    {
+        padding: 17px 0px 17px 0px;
+    }
+    .Construction-services
+    {
+        top: 264px;
+        left: 29%;
+    }
+    .Finishing-services
+    {
+        top: 329px;
+        left: 29%;
+    }
+    .our-projects
+    {
+        top: 380px;
+    }
+    .projects-img
+    {
+        margin-top: 80px;
+    }
+    .project-1
+    {
+        left: 37%;
+        margin-left: 0;
+        position: relative;
+    }
+    .project-2
+    {
+        margin-top: 320px;
+        margin-left: 0;        
+        left: 3.6%;
+        position: relative;
+    }
+    .project-3
+    {
+        margin-top: 640px;
+        margin-left: 0;
+        left: -29.7%;
+        position: relative;
+    }
+    .our-projects-name 
+    {
+        left: 22.5%;
+    }
+    .st-bk
+    {
+        margin-top: 320px;
+    }
+    .desktop-800
+    {
+        display: block;
+    }
+    .desktop-1000
+    {
+        display: none;
+    }
+    .st-text .text-1 {
+        margin-left: 35px;
+    }
+    .swiper-selection
+    {
+        margin-top: 80px;
+    }
+    .text-swiper h4 {
+        width: 400px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .img-swiper {
+        top: 140px;
+        left: 455px;
+    }
+    .serv-text
+    {
+        width: 640px;
+        font-size: 14px;
+    }        
+    .button
+    {
+        font-size: 24px;
+        width: 118px;
+        top: 34px;
+        padding: 11px 251px 9px 251px;
+    }
+    .serv-name h2 
+    {
+        text-align: left;
+        right: -37px;
+    }
+    .services-build 
+    {
+        right: 7.2%;
+    }
+    .contact-name 
+    {
+        left: 25px;
+    }        
+    .box-info-contact
+    {
+        display: block;
+        margin-top: 55px;
+        left: 0;
+        text-align: center;
+    }
+    .box-inf-address,
+    .box-inf-mail,
+    .box-inf-number
+    {
+        width: 100%;
+        text-align: center;
+        left: 0;
+    }
+    .box-inf-number h4,
+    .box-inf-mail h4,
+    .box-inf-address h4
+    {
+        width: 100%;
+    }
+    .button-question
+    {
+        top: 615px;
+    }
+    .question
+    {
+        left: 17.5%;
+    }
+    .button-question
+    {
+        left: 22%;
+    }
+    .logo .vk
+    {
+        left: 40%;
+    }
+    .show-modal
+    {
+        z-index: 99;
+    }
+    .swiper-selection .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+        left: 0;
+        width: 110%;
+    }
+}
+@media only screen and (max-width: 480px) 
+{
+    header
+    {   
+    width: 480px;
+    overflow-x: clip;
+    }      
+    nav li ul h4
+    {
+        display: none;
+    }
+    nav li
+    {
+        top: 60px;
+        left: 12%;
+    }
+    nav .logo 
+    {
+    left: 34%;
+    }
+    nav ul
+    {
+        width: 296px;
+    }
+    nav .logo h1
+    {
+        font-size: 24px;
+    }
+    nav li ul a
+    {
+        margin-left: 15px;
+    }
+    .text-present 
+    {
+    width: 390px;
+    left: 45px;
+        top: 110px;
+    }
+    .text-present h1 
+    {
+        left: 10.5%;
+    }
+    .text-present p 
+    {
+        left: 0;
+        width: 100%;
+    }
+    .img-border-ab-us img 
+    {
+        width: 300px;
+    }
+    .img-ab-us img 
+    {
+        width: 300px;
+    }
+    .img-ab-us
+    {
+        left: 19%;
+    }
+    .img-border-ab-us
+    {
+            left: 15%;
+            width: 0;
+            margin: 0;
+    }
+    .text-ab-us 
+    {
+    text-align: center;
+    left: 5%;
+    margin-top: 380px;
+    }
+    nav li ul a
+    {
+        font-size: 14px;
+    }
+    .text-present 
+    {
+        width: 390px;
+    }
+    .text-present h3
+    {
+        font-size: 20px;
+    }
+    .services
+    {
+        right: 41%;
+        margin-top: 800px;
+    }
+    .our-projects-name
+    {
+        left: 2.5%;
+    }
+    .project-1
+    {
+        left: 15%;
+    }
+    .project-2
+    {
+        left: -18.3%
+    }
+    .project-3
+    {
+        left: -51.6%;
+    }
+    .desktop-800
+    {
+        display: none;
+    }
+    .desktop-480
+    {
+        display: block;
+    }
+    .background
+    {
+        left: 45px;
+    }
+    .st-text
+    {
+        font-size: 16px;
+        left: 25px;
+        top: 60px;
+    }
+    .st-text .text-1
+    {
+        margin-left: 0;
+    }
+    .st-text .text-2, .st-text .text-3 {
+        margin-left: -82px;
+    }
+    .swiper
+    {
+        height: 753px;
+    }
+    .swiper-selection .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+        top: 735px;
+
+    }
+    .img-swiper {
+        top: 440px;
+        left: 60px;
+    }
+    .img-swiper img
+    {
+        width: 363px;
+    }
+    .swiper-name
+    {
+        width: 0;
+    }
+    .swiper-name h1
+    {
+        font-size: 34px;
+        left: 25px;
+    }
+    .swiper-name h2
+    {
+        font-size: 24px;
+    }
+    .swiper-selection {
+        margin-top: 50px;
+    }
+    .text-swiper
+    {
+        margin-left: 42px;
+    }   
+    .desktop-horizontal-1-2
+    {
+        display: block;
+    }
+    .desktop-horizontal-3, .desktop-horizontal-2, .desktop-horizontal-1
+    {
+        display: none;
+    }   
+    .two
+    {
+        top: 333px;
+    }
+    .three
+    {
+        top: 333px;
+    }
+    .button
+    {
+        top: 40px;
+        padding: 11px 131px 9px 141px;
+    }
+    .serv-text
+    {
+        width: 375px;
+    }
+    .services-build
+    {
+        right: 20.2%;
+    }
+    .contact-info {
+    margin-top: 765px;
+    }
+    .contact-name h2
+    {
+        font-size: 24px;
+    }
+    .contact-name h1
+    {
+        font-size: 30px;
+        left: 40px;
+    }
+    .box-info-contact
+    {
+        top: 0;
+    }
+    .question
+    {
+        left: 0;
+        top: 100px;
+    }
+    .question h1
+    {
+        font-size: 27px;
+    }
+    .question h4
+    {
+        font-size: 16px;
+        width: 350px;
+        left: 80px;
+    }
+    .button-question {
+        left: 17.5px;
+        top: 535px;
+    }
+    .logo-social-network .logo
+    {
+        top: -40px;
+    }
+    .logo .vk
+    {
+        margin-left: 33%;
+    }
+    .projects-img
+    {
+        width: 0;
+    }
+    .project-1
+    {
+        margin-left: 144px;
+        border-bottom: none;
+    }
+    .project-2
+    {
+        margin-left: -300px;
+        border-bottom: none;
+    }
+    .project-3
+    {
+        margin-left: -300px;
+        border-bottom: none;
+    }
+    .line-bacround
+    {
+        display: none;
+    }
+    .Construction-services h3,
+    .Finishing-services h3,
+    .dismantling-name h3
+    {
+        width: 0;
+    }
+    .dismantling-name
+    {
+        width: 0;
+    }
+    .Construction-name
+    {
+        width: 0;
+    }
+    .Finishing-name
+    {
+        width: 0;
+    }
+    .text-swiper
+    {
+        width: 0;
+    }
+    .show-modal
+    {
+        z-index: 99;
+    }
+}
+@media only screen and (max-width: 375px) 
+{
+    nav li
+    {
+        top: 60px;
+        left: 10%;
+    }
+    nav .logo 
+    {
+    left: 34%;
+    }
+    .text-present h3
+    {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .text-present
+    {
+        left: 18px;
+        width: 340px;
+    }
+    .text-present h1
+    {
+        left: 3.5%;
+    }
+    .img-border-ab-us
+    {
+        left: 7%;
+    }
+    .img-ab-us
+    {
+        left: 14%;
+    }
+    .text-ab-us h2
+    {
+        font-size: 18px;
+    }
+    .text-ab-us h1
+    {
+        font-size: 30px;
+        bottom: 19px;
+        left: 20px;
+    }
+    .text-ab-us
+    {
+        left: 0%;
+    }
+    .text-ab-us p
+    {
+        left: 11px;
+        font-size: 15px;
+        width: 340px;
+    }
+    .services {
+        right: 53%;
+        margin-top: 860px;
+    }   
+    .our-projects-name h2
+    {
+        font-size: 24px;
+    } 
+    .our-projects-name h1
+    {
+        font-size: 34px;
+    }
+    .our-projects-name {
+        left: 8%;
+    }
+    .project-1 
+    {
+        margin-left: 81px;
+    }
+    .desktop-480
+    {
+        display: none;
+    }
+    .background
+    {
+        left: 80px;
+        top: 120px;
+    }
+    .st-text
+    {
+        display: block;
+        left: 124px;
+        top: -131px;
+        font-size: 20px;
+    }
+    .st-text .text-2
+    {
+        top: 14px;
+    }
+    .st-text .text-3
+    {
+        left: 84px;
+        position: relative;
+        top: 13px;
+    }
+    .swiper-selection {
+        margin-top: -90px;
+    }
+    .swiper-name {
+        left: 27%;
+    }
+    .text-swiper h4
+    {
+        left: -20px;
+        text-align: center;
+        width: 340px;
+        position: absolute;
+    }
+    .swiper
+    {
+        height: 843px;
+    }
+    .img-swiper {
+        top: 510px;
+        left: 8px;
+    }
+    .swiper-selection .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+        top: 795px;
+        width: 375px;
+    }
+    .desktop-horizontal-1-2
+    {
+        display: none;
+    }
+    .desktop-horizontal-1-3
+    {
+        display: block;
+    }
+    .serv-text {
+        left: 9px;
+        width: 279px;
+        text-align: center;
+    }
+    .button
+    {
+        padding: 11px 77px 9px 85px;
+        top: 43px;
+        left: 10px;
+    }
+    .two
+    {
+        top: 417px;
+    }
+    .three
+    {
+        top: 417px;
+    }
+    .serv-name h2 {
+        width: 220px;
+        text-align: center;
+    }
+    .services-build {
+        right: 16%;
+    }
+    .contact-name h1
+    {
+        font-size: 27px;
+        top: 7px;
+        left:10px;
+    }
+    .contact-name
+    {
+        left: 5px;
+    }
+    .contact-info
+    {
+        margin-top: 931px;
+    }
+    .box-info-contact
+    {
+        left: -71px;
+    }
+    .question h1
+    {
+        width: 375px;
+    }
+    .question h4
+    {
+        width: 375px;
+        left: 0;
+        top: 91px;
+    }
+    .button-question {
+        left: 14px;
+        top: 535px;
+        padding: 20px 41px 20px 41px;
+    }
+    .logo .vk
+    {
+        margin-left: 22%;
+    }
+    .desktop-375
+    {
+        display: block;
+    }
+    .show-modal
+    {
+        z-index: 99;
+    }
+}
+/* Меняем стили при ширине экрана меньше 800px */
+@media (max-width: 800px) {
+    /* Теперь форма (правая колонка) будет сверху, а элементы (левая колонка) снизу */
+    .content {
+      height: 100%;
+      flex-direction: column-reverse; /* располагаем в колонку и реверсивно */
+    }
+  
+    /* Внутри левой колонки внутренние элементы располагаем в ряд */
+    .left-side {
+      margin-top: 50px;
+      flex-direction: row; /* располагаем элементы (адрес, телефон, email) в ряд */
+      width: 100%; /* левая колонка на всю ширину */
+      justify-content: center;
+      flex-wrap: wrap; /* перенос элементов, если не хватит места */
+    }
+    .details {
+      margin-right: 20px;
+    }
+    .details:last-child {
+      margin-right: 0;
+    }
+  
+    /* Убираем разделительную линию */
+    .left-side::before {
+      display: none;
+    }
+  
+    /* Правая колонка теперь на всю ширину и не имеет отступа слева */
+    .right-side {
+      width: 100%;
+      margin-left: 0;
+    }
+    .show-modal
+    {
+        z-index: 99;
+    }
+  }
