@@ -511,6 +511,10 @@
 }
 @media only screen and (max-width: 800px) 
 {
+        .modal-content-img
+    {
+        width: 70%;
+    }
     nav li
     {
         left: 27%;
